@@ -1,0 +1,16 @@
+# 构建产物与 IDE 缓存
+obj/
+bin/
+.vs/
+*.user
+*.suo
+*.pdb
+*.ilk
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+
+# 说明：dist/ 里的预编译 exe 是随仓库一起发布的，不忽略
